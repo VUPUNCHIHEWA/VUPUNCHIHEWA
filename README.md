@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishwani Umesha</h1>
-<h3 align="center">A passionate IT undergraduate & Researcher</h3>
+<h3 align="center">IT undergraduate|     Researcher</h3>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1wbjl3eWVmbzd4YndrOW5pdng3NDAzcjU1dmoyazI3ZXhubzJjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif"  />
 </div>
 
 - 🔭 I’m currently working on **Final Year Research Project**

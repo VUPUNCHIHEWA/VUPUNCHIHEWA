@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishwani Umesha</h1>
 <h3 align="center">A passionate IT undergraduate & Researcher</h3>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 - 🔭 I’m currently working on **Final Year Research Project**
 
 - 🌱 I’m currently learning **React,Node.js, Machine Learning**

@@ -7,16 +7,10 @@
 
 - 🔭 I’m currently working on **Final Year Research Project**
 
-- 🌱 I’m currently learning **React,Node.js, Machine Learning**
-
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
-
-- 📝 I regularly write articles on [blog link](blog link)
-
+- 🌱 I’m currently learning **React,Springboot, Machine Learning**
+  
 - 📫 How to reach me **umeshav520@gmail.com**
-
-- 📄 Know about my experiences [resume link](resume link)
-
+- 
 - ⚡ Fun fact **I enjoy turning complex problems into simple solutions 😄**
 
 <h3 align="left">Connect with me:</h3>

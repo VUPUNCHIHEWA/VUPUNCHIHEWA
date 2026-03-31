@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwani Umesha</h1>
-<h3 align="center">IT undergraduate|     Researcher</h3>
+<h3 align="center">IT Undergraduate | Quality Assurance Enthusiast | Researcher</h3>
 
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1wbjl3eWVmbzd4YndrOW5pdng3NDAzcjU1dmoyazI3ZXhubzJjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif"  />

@@ -5,7 +5,6 @@
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1wbjl3eWVmbzd4YndrOW5pdng3NDAzcjU1dmoyazI3ZXhubzJjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif"  />
 </div>
 
-- 🔭 I’m currently working on **Final Year Research Project**
 I am a final-year Information Technology undergraduate with a strong focus on **Software Quality Assurance** and **Full-Stack Development**. I enjoy the process of building reliable applications and ensuring their quality through systematic testing.
 
 ---

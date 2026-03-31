@@ -1,15 +1,29 @@
-<h1 align="center">Hi 👋, I'm Vishwani Umesha</h1>
-<h3 align="center">IT Undergraduate | Quality Assurance Enthusiast | Researcher</h3>
+# Hi 👋, I'm Vishwani Umesha
 
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1wbjl3eWVmbzd4YndrOW5pdng3NDAzcjU1dmoyazI3ZXhubzJjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif"  />
-</div>
+**IT Undergraduate | Quality Assurance Enthusiast | Researcher**
 
-- 🔭 I’m currently working on **Final Year Research Project**
+I am a final-year Information Technology undergraduate with a strong focus on **Software Quality Assurance** and **Full-Stack Development**. I enjoy the process of building reliable applications and ensuring their quality through systematic testing.
 
-- 🌱 I’m currently learning **React,Springboot, Machine Learning**
-  
-- 📫 How to reach me **vishupunchihewa@gmail.com**
+---
+
+### 🔭 Current Focus
+* **Research Project:** Working on a Multimodal Framework for Mock Interview Analysis.
+* **Learning:** Improving my skills in **API Automation**, **React**, and **Spring Boot**.
+* **Goal:** Seeking a **QA Internship** to apply my testing knowledge in a professional environment.
+
+### 🛠️ Tech Stack & Tools
+* **Testing:** API Testing (Postman), Manual Testing, Automation basics.
+* **Development:** React, Python (FastAPI/Flask), Spring Boot, PostgreSQL.
+* **DevOps & Tools:** Git, Docker, Jenkins.
+
+### 🌱 Projects & Learning
+* 🛡️ **API Test Automation:** Developed a testing suite for a Hotel Booking System using Postman.
+* 📈 **Laptop Price Predictor:** Built a ML application using Scikit-learn and Streamlit.
+* 🎓 **Postman Certified:** API Fundamentals Student Expert.
+
+### 📫 How to reach me
+* **Email:** [vishupunchihewa@gmail.com](mailto:vishupunchihewa@gmail.com)
+* **LinkedIn:** [linkedin.com/in/vishwani-umesha](https://www.linkedin.com/in/your-profile-url)
   
 - ⚡ Fun fact **I enjoy turning complex problems into simple solutions 😄**
 
